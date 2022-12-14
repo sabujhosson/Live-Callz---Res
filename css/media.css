@@ -1,0 +1,367 @@
+@media(max-width:3600px){
+    .navbar-collapse{
+        z-index: 1;
+    }
+    .banner2{
+        min-height: 45vh;
+    }
+    .serve {
+        min-height: 45vh;
+    }
+    .footer-text {
+        margin-left: 110px;
+    }
+    .footer-back {
+        width: 50%;
+    }
+
+}
+
+@media(max-width:2559px){
+    .navbar-collapse{
+        z-index: 1;
+    }
+    .footer-back {
+        width: 50%;
+    }
+    .footer-text {
+        margin-left: 110px;
+    }
+    .banner2{
+        min-height: 55vh;
+    }
+    .serve {
+        min-height: 56vh;
+    }
+    .free{
+        margin-top: 40px;
+    } 
+
+
+}
+
+@media(max-width:1399px){
+    .navbar-collapse{
+        z-index: 1;
+    }
+    .free {
+        margin-top: 0px;
+    }
+    .marg{
+       margin-top: 0px !important;
+    }
+    .buying{
+        width: 100%;
+    }
+    .footer-text{
+        margin-left: 60px;
+    }
+    .btn-4{
+        margin-left: 0px;
+    }
+}
+
+@media( max-width:1199px){
+    .navbar-collapse{
+        z-index: 1;
+    }
+    .color{
+        width: 70%;
+    }
+    .banner2 {
+       min-height: 75vh;
+    }
+    .buying {
+        width: 100%;
+    }
+    .process-text {
+        width: 97%;
+    }
+
+    .free {
+        margin-top: -95px;
+    }
+    .footer-text {
+        display:inherit; 
+       margin-left: 0px;  
+   }
+   .footer-back {
+       width: 60%;
+   }
+
+}
+
+@media(max-width:991px){
+    .color {
+        width: 71%;
+    }
+    .navbar-light .navbar-nav .nav-link {
+        color: #1c72c0;
+    }
+    .navbar-light .navbar-nav .nav-link:hover {
+        color:#1c72c0;
+    }
+    .navbar-light .navbar-nav .nav-link:hover::before {
+        height: 2%;
+        width: 20%;
+        background: #2479c7;
+    }
+    .btn-1{
+        color: #126ab9;
+        border: 1px solid #176ebd;
+        margin-top: 12px;
+        margin-left: 0px;
+      }
+      .btn-1:hover {
+          background-color: #176ebd;
+          color: #fff;
+          border: 1px solid #fff;
+          transition: .4s all ease-in-out;
+      }
+      .btn-1 i {
+          color: #176ebd;
+      }
+      .btn-1:hover i{
+          color: #fff;
+          transition: .4s all ease-in-out;
+      }
+      .Provide h1{
+          font-size: 43px;
+      }
+      .banner2 {
+          margin-top: 55px;
+          min-height: 75vh;
+      }
+      .banner2 img{
+          width: 95%;
+      }
+      .banner2-text h1 {
+          font-size: 38px;
+      }
+      .banner2-text p {
+        margin-bottom: 20px;
+        font-size: 16px;
+    }
+    .contact-1 h4 {
+        font-size: 20px;
+        width: 90%;
+    }
+    .contact-box h6{
+        font-size: 16px;
+        line-height: 23px;
+    }
+    .buying{
+        width: 116%;
+        padding: 21px 10px;
+    }
+    .df{
+        display: flex;
+    }
+    .get img {
+        width: 100%;
+        height: 82%;
+        margin: auto;
+        margin-left: 54px;
+    }
+    .process-text {
+            width: 100%;
+            height: 435px;
+            margin: auto;
+            padding: 72px 10px 20px;
+    }
+    .free {
+        margin-top: -90px;
+    }
+    .footer-img img {
+        margin-top: 115px;
+    }
+    .footer-text {
+         display:inherit; 
+        margin-left: 0px;  
+    }
+      
+
+    
+
+
+}
+
+@media(max-width:767px){
+      .banner2 img{
+          display: none;
+      }
+      .banner2-content {
+          text-align: start;
+      }
+      .banner2 {
+          min-height: 40vh;
+      }
+      .paper img {
+        width: 18%;
+      }
+      .free {
+        margin-top: 0px;
+    }
+    .footer-back {
+        width: 90%;
+    }
+    .footer-text{
+        margin-left: 0px;
+    }
+    .process-text{
+        width: 85%;
+        height: 400px;
+        margin: auto;
+        padding: 72px 27px 60px;
+    }
+    .pro{
+        margin-bottom: 60px !important;
+    }
+    .footer-img img {
+        margin-top: 0px;
+    }
+    
+
+}
+
+@media(max-width:575px){
+    .person {
+        display: none;
+    }
+    .Provide h1{
+        font-size: 46px;
+    }
+    .banner2-content{
+        text-align: start;
+    }
+    .banner2-text h1{
+        font-size: 37px;
+    }
+    .banner2-text p{
+        font-size: 15px;
+    }
+    .contact-footer h1 {
+        font-size: 35px;
+    }
+    .paper img {
+        width: 20%;
+    }
+    .free {
+        margin-top: 0px;
+    }
+    .btn-3{
+        font-size: 16px;
+        padding: 12px 20px;
+    }
+    .footer-text{
+        margin-left: 95px;
+        margin-right: 9px;
+    }
+    .footer-back{
+        width: 90%;
+    }
+    .footer-text h3 span{
+        font-size: 18px;
+    }
+    .footer-text h3{
+        font-size: 16px;
+    }
+    .btn-4{
+        margin-left: 0px;
+    }
+    .footer-img img {
+        width: 80%;
+    }
+    .footer-img{
+        text-align: center;
+    }
+    .marg{
+        margin-top:22px;
+
+    }
+}
+
+@media(max-width:375px){
+    .check h3 {
+        font-size: 16px;
+        margin-left: 16px;
+    }
+    .buying p{
+        font-size: 14px;
+        margin-left: 40px;
+    }
+    .process-text h3{
+        margin: 19px 0px 19px;
+    }
+    .process-text p{
+        line-height: 22px;
+    }
+    .first-que h3 {
+        font-size: 15px;
+    }
+    .footer-text{
+        display: inherit;
+    }
+    .footer-back{
+        width: 100%;
+    }
+    .footer-text h3 {
+        font-size: 14px;
+    }
+    .footer-text h3 span{
+        font-size: 15px;
+    }
+    .contact-1 h4{
+        width: 80%;
+    }
+}
+@media(max-width:320px){
+    .navbar-light .navbar-brand{
+        width: 73%;
+    }
+    .navbar-toggler {
+        padding: 2px 6px;
+    }
+    .Provide h1 {
+        font-size: 40px;
+    }
+    .banner2-text h1 {
+        font-size: 33px;
+    }
+    .banner2-text p{
+        font-weight: 500;
+    }
+    .contact-1 h4 {
+        width: 80%;
+    }
+    .contact-box h5 {
+        font-size: 16px;
+        line-height: 22px;
+    }
+    .contact-box h6 {
+        font-size: 15px;
+        line-height: 22px;
+    }
+    .buying {
+        width: 100%;
+        height: 270px;
+    }
+    .process-text {
+        width: 100%;
+    }
+    .paper img {
+        width: 25%;
+    }
+    .first-que h3 {
+        font-size: 14px;
+    }
+    .btn-4 {
+        padding: 7px 10px;
+    }
+
+
+
+}
+
+
+
